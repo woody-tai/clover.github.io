@@ -7,10 +7,8 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+**Description:**
 A clear and concise description of what the bug is.
-
-**General description**
 
 **Expected behaviour**
 A clear and concise description of what you expected to happen.
